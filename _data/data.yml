@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Alexander Martinez Mendez
     tagline: Systems administrator
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profilePic2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mxrtinez@gmail.com
@@ -57,32 +57,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      IT Whisperer, liaison between scientific & IT groups
+      IT Whisperer, liaison between scientific & IT groups.
 education:
     title: Education
     info:
-      - degree: MSc in Systems Engineer
+      - degree: MSc in Systems and computer engineering
         university: Universidad Industrial de Santander
         time: 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Systems Engineer
+          A methodological model was developed to assist and enhance the reproducibility of scientific experiments in small and/or medium research groups. The model was validated through use cases on the Milab platform.
+      - degree: BSc in Systems and computer engineering
         university: Universidad Industrial de Santander
         time: 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Implementation of the DSpace data repository in a decentralised way, including discovery and data transmission protocols for the LAGO Collaboration.
 
 experiences:
     title: Experiences
@@ -118,91 +106,79 @@ certifications:
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My projects.
     assignments:
       - title: MiLab
         link: "#hook"
         tagline: "A platform as a service in the cloud to support the work of research groups and institutions associated with RedCLARA in project management, the preservation of their digital history and collaborative work."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Academic work.
     papers:
-      - title: The Art of Computer Programming
+      - title: High-Performance Computing for Astrophysical Simulations and Astroparticle Observations
+        link: "https://www.carla2023.org/"
+        authors: L.M. Becerra, C. Sarmiento-Cano, A. Martínez-Méndez, Y. Dominguez and L.A. Núñez
+        conference: 10th Latin America High Performance Computing Conference, CARLA 2023
+      
+      - title: Modelo de Gestión de Recursos Computacionales para Asistir la Reproducibilidad de Experimentos Científicos
+        link: "https://cienciaabierta.info/"
+        authors: Alexander Martínez-Méndez, Luis A. Nuñez, Gabriel Pedraza, Carlos González and Pablo Crespo
+        conference: Congreso Iberoamericano de Ciencia Abierta, 2022
+      
+      - title: MiLab, Plataforma para la Reproducibilidad de la Ciencia
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Alexander Martínez-Méndez, Luis A. Nuñez, Gabriel Pedraza, Carlos González and Pablo Crespo
+        conference: VII Congreso Colombiano de Astronomía y Astrofísica, CoCoA, 2022
+      
+      - title: Academia, datos y reproducibilidad de la ciencia
+        link: "https://doi.org/10.18273/revuin.v19n4-2020026"
+        authors: Alexander Martínez-Méndez and Luis A. Nuñez
+        conference: Revista UIS Ingenierías, 2020
+      
+      - title: Gestión de Datos en la Colaboración LAGO, Estrategia y Reflexiones.
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
+        authors: Alexander Martínez-Méndez, Luis A. Nuñez and Gilberto Díaz¹
+        conference: OpenCon LatAm, 2019
+      
+      - title: Lago Distributed Network Of Data Repositories
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: A. Martínez-Méndez, H. Asorey, L.A. Núñez and A. Valbuena-Delgado.
+        conference: XV Reunión Latinoaméricana de la Unión Astronómica Internacional (XV LARIM), 2017
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Bash
+        level: 80%
+
+      - name: GNU/Linux 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Docker
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Open Science
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Data Managment
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
