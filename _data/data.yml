@@ -57,10 +57,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      IT Whisperer, liaison between scientific & IT groups.
+      IT Whisperer, liaison between scientific & IT groups. Open Science ambassador.
 education:
     title: Education
     info:
+      - degree: Doctorate in Computer Science
+        university: Universidad Industrial de Santander
+        time: 2023 - Present
+        details: 
       - degree: MSc in Systems and computer engineering
         university: Universidad Industrial de Santander
         time: 2023
@@ -115,6 +119,12 @@ projects:
       - title: MiLab
         link: "#hook"
         tagline: "A platform as a service in the cloud to support the work of research groups and institutions associated with RedCLARA in project management, the preservation of their digital history and collaborative work."
+      - title: RACIMO-Móncora
+        link: "https://class.redclara.net/halley/moncora"
+        tagline: "Racimo-Móncora is a citizen science project that seeks to create science seedbeds in schools in Bucaramanga and thereby expose high school students early to scientific research environments and tools."
+      - title: RACIMO-Móncora
+        link: "https://class.redclara.net/halley/moncora"
+        tagline: "Racimo-Móncora is a citizen science project that seeks to create science seedbeds in schools in Bucaramanga and thereby expose high school students early to scientific research environments and tools."
 
 #oss:
 #    title: OSS Contributions
@@ -170,6 +180,9 @@ skills:
 
       - name: GNU/Linux 
         level: 98%
+
+      - name: git
+        level: 80%
 
       - name: Docker
         level: 70%
