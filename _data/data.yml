@@ -122,9 +122,9 @@ projects:
       - title: RACIMO-Móncora
         link: "https://class.redclara.net/halley/moncora"
         tagline: "Racimo-Móncora is a citizen science project that seeks to create science seedbeds in schools in Bucaramanga and thereby expose high school students early to scientific research environments and tools."
-      - title: RACIMO-Móncora
-        link: "https://class.redclara.net/halley/moncora"
-        tagline: "Racimo-Móncora is a citizen science project that seeks to create science seedbeds in schools in Bucaramanga and thereby expose high school students early to scientific research environments and tools."
+      - title: Co-Afina Hackathon
+        link: "https://laconga.redclara.net/hackathon/"
+        tagline: "Hackathon promoted by LA-CoNGA physics in which university students in Latin America collaboratively develop solutions to solve problems related to scientific and educational topics with social impact."
 
 #oss:
 #    title: OSS Contributions
