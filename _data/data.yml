@@ -108,7 +108,7 @@ certifications:
           credentialurl: https://europe.acm.org/seasonal-schools/hpc/2024
           credentialname: ACM-BSC School Barcelona 2024
           details: |
-            The 2024 ACM Europe Summer School on “HPC Computer Architectures for AI and Dedicated Applications” offers PhD students and postdocs an immersive week in Barcelona, focusing on AI, HPC, and emerging fields like Quantum Computing.
+            The 2024 ACM Europe Summer School offers PhD students and postdocs an immersive week in Barcelona, focusing on AI, HPC, and emerging fields like Quantum Computing.
         - name: 14th International SuperComputing Camp 2023
           #start: May 2023
           end: May 2023
@@ -117,7 +117,7 @@ certifications:
           credentialurl: http://www.sc-camp.org/2023
           credentialname: SC-Camp 2023
           details: |
-            The 14th International SuperComputing Camp 2023 offers Master and PhD students an immersive 6-day program in Cartagena, Colombia, focused on High-Performance Computing (HPC) and Distributed Systems through lectures, practical sessions, and collaborative projects.
+            The 14th International SuperComputing Camp 2023 offers Master and PhD students a 6-day program in Cartagena, Colombia, focused on High-Performance Computing (HPC) and Distributed Systems.
         - name: 41th International School for Young Astronomers
           #start: Jul 2018
           end: Jul 2018
@@ -126,7 +126,7 @@ certifications:
           credentialurl: https://www.iau.org/education/school_for_young_astronomers/
           credentialname: ISYA 2018
           details: |
-            The International School for Young Astronomers (ISYA), organized by the International Astronomical Union (IAU), is a three-week program aimed at postgraduate students from developing regions, offering comprehensive lectures, practical exercises, and observational training in astronomy and astrophysics.
+            The International School for Young Astronomers (ISYA), is a three-week program offering comprehensive lectures, practical exercises, and observational training in astronomy and astrophysics.
 
 projects:
     title: Projects
@@ -143,15 +143,15 @@ projects:
         link: "https://laconga.redclara.net/hackathon/"
         tagline: "Hackathon promoted by LA-CoNGA physics in which university students in Latin America collaboratively develop solutions to solve problems related to scientific and educational topics with social impact."
 
-#oss:
-#    title: OSS Contributions
+oss:
+    title: OSS Contributions
 #    intro: >
 #      You can list your open source software contributions in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#    contributions:
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    contributions:
+      - title: MiLab
+        link: "https://milab.redclara.net/"
+        tagline: "MiLAB is a cloud-based platform-as-a-service designed to support research groups and institutions associated with RedCLARA. It facilitates project management, digital history preservation, and collaborative work."
 
 publications:
     title: Publications
