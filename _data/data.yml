@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Alexander Martinez Mendez
     tagline: Master in systems engineering and computer science
-    avatar: profilePic1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profilePic3.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mxrtinez@gmail.com
@@ -57,13 +57,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      IT Whisperer, liaison between scientific & IT groups. Open Science ambassador.
+      Systems administrator and PhD student specializing in Workflows, Open Science and data management. I manage research platforms that enhance collaboration and reproducibility, combining technical expertise with advanced research skills.
 education:
     title: Education
     info:
       - degree: Doctorate in Computer Science
         university: Universidad Industrial de Santander
-        time: 2023 - Present
+        time: 2024 - Present
         details: 
       - degree: MSc in Systems and computer engineering
         university: Universidad Industrial de Santander
@@ -97,19 +97,36 @@ experiences:
         details: |
           Implementation of a prototype for an open scientific data repository, with functionalities for interoperability, persistent digital identifiers, dissemination, and metadata collection.
 
-#certifications:
-#      title: Certifications
-#      list:
-#        - name: CV Builder
-#          start: 2020
-#          end: 2021
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.google.com
-#          credentialname: Google
-#          details: |
-#            Details about cert. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
+certifications:
+      title: Certifications
+      list:
+        - name: ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications
+          start: Sep 2024
+          end: Sep 2024
+          organization: Association for Computing Machinery (ACM), Barcelona Supercomputing Center (BSC)
+          #credentialid: 111-222
+          credentialurl: https://europe.acm.org/seasonal-schools/hpc/2024
+          credentialname: ACM-BSC School Barcelona 2024
+          details: |
+            The 2024 ACM Europe Summer School on “HPC Computer Architectures for AI and Dedicated Applications” offers PhD students and postdocs an immersive week in Barcelona, focusing on AI, HPC, and emerging fields like Quantum Computing.
+        - name: 14th International SuperComputing Camp 2023
+          start: May 2023
+          end: May 2023
+          organization: SC-Camp
+          #credentialid: 111-222
+          credentialurl: http://www.sc-camp.org/2023
+          credentialname: SC-Camp 2023
+          details: |
+            The 14th International SuperComputing Camp 2023 offers Master and PhD students an immersive 6-day program in Cartagena, Colombia, focused on High-Performance Computing (HPC) and Distributed Systems through lectures, practical sessions, and collaborative projects.
+        - name: 41th International School for Young Astronomers
+          start: Jul 2018
+          end: Jul 2018
+          organization: International Astronomical Union (IAU)
+          #credentialid: 111-222
+          credentialurl: https://www.iau.org/education/school_for_young_astronomers/
+          credentialname: ISYA 2018
+          details: |
+            The International School for Young Astronomers (ISYA), organized by the International Astronomical Union (IAU), is a three-week program aimed at postgraduate students from developing regions, offering comprehensive lectures, practical exercises, and observational training in astronomy and astrophysics.
 
 projects:
     title: Projects
@@ -179,7 +196,7 @@ skills:
         level: 80%
 
       - name: GNU/Linux 
-        level: 98%
+        level: 90%
 
       - name: git
         level: 80%
@@ -188,7 +205,7 @@ skills:
         level: 70%
 
       - name: Open Science
-        level: 95%
+        level: 85%
 
       - name: Data Managment
         level: 90%
