@@ -98,10 +98,10 @@ experiences:
           Implementation of a prototype for an open scientific data repository, with functionalities for interoperability, persistent digital identifiers, dissemination, and metadata collection.
 
 certifications:
-      title: Certifications
+      title: Certifications and Short Courses
       list:
-        - name: ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications
-          start: Sep 2024
+        - name: ACM Europe Summer School on HPC Computer Architectures
+          #start: Sep 2024
           end: Sep 2024
           organization: Association for Computing Machinery (ACM), Barcelona Supercomputing Center (BSC)
           #credentialid: 111-222
@@ -110,7 +110,7 @@ certifications:
           details: |
             The 2024 ACM Europe Summer School on “HPC Computer Architectures for AI and Dedicated Applications” offers PhD students and postdocs an immersive week in Barcelona, focusing on AI, HPC, and emerging fields like Quantum Computing.
         - name: 14th International SuperComputing Camp 2023
-          start: May 2023
+          #start: May 2023
           end: May 2023
           organization: SC-Camp
           #credentialid: 111-222
@@ -119,7 +119,7 @@ certifications:
           details: |
             The 14th International SuperComputing Camp 2023 offers Master and PhD students an immersive 6-day program in Cartagena, Colombia, focused on High-Performance Computing (HPC) and Distributed Systems through lectures, practical sessions, and collaborative projects.
         - name: 41th International School for Young Astronomers
-          start: Jul 2018
+          #start: Jul 2018
           end: Jul 2018
           organization: International Astronomical Union (IAU)
           #credentialid: 111-222
