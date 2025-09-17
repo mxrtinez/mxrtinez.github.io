@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Alexander Martinez Mendez
-    tagline: Master in systems engineering and computer science
+    tagline: Doctoral student in Computer Science
     avatar: profilePic3.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Systems administrator and PhD student specializing in Workflows, Open Science and data management. I manage research platforms that enhance collaboration and reproducibility, combining technical expertise with advanced research skills.
+      Systems administrator and PhD student specializing in Workflows, Computing Continuum, Open Science, and data management. I manage research platforms that enhance collaboration and reproducibility, combining technical expertise with advanced research skills.
 education:
     title: Education
     info:
@@ -80,12 +80,18 @@ experiences:
     title: Experiences
     info:
       - role: Software architect and systems administrator
-        time: 2020 - Present
+        time: 2025 - Present
+        company: EL-BONGÓ physics
+        details: |
+          Design, deploy and administer the ElBongo Science Gateway, a platform that integrates workflows, data management tools, and computing resources to support research under open science principles. 
+          Support users in the use of the Science Gateway, facilitating the execution, monitoring, and reproducibility of computational experiments. 
+          Manage and extend the workflow management services that enable researchers to design, share, and reuse workflows across distributed computing infrastructures.
+      - role: Software architect and systems administrator
+        time: 2020 - 2024
         company: LA-CoNGA physics
         details: |
           Design, deploy and administer the MiLab platform, available at the URL https://milab.redclara.net/. This platform provides research support in data management, software, scientific computing and communications, following open science principles.
-          Support users in the use of the services provided by MiLab.
-          Manage and support the LA-CoNGA Courses learning content management system, LCMS https://laconga.redclara.net/courses/. This platform aims to facilitate access to the educational resources of the LA-CoNGA physics academic programme.
+          Manage and support the LA-CoNGA Courses learning content management system, LCMS https://laconga.redclara.net/courses/
       - role: Young Researcher
         time: 2019 - 2020
         company: Minciencias - Universidad Industrial de Santander
