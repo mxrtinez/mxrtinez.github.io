@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: mxrtinez@gmail.com
     phone: +57 607 634 4000 Ext 2741
-    timezone: Bogotá, Colombia (GMT-5) 
+    timezone: Bogotá, Colombia (UTC-5) 
     citizenship: Colombian
     website: mxrtinez.github.io/ #do not add http://
     linkedin: mxrtinez
@@ -24,7 +24,7 @@ sidebar:
     telegram: mxrtinez # add your nickname without '@' sign
     gitlab: mxrtinez
     bitbucket:
-    twitter: '@mxrtinez'
+    twitter: # Number/Username, e.g. 123456/alandoe
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,7 +37,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: B2
+          level: B1
 
     interests:
       title: Interests
@@ -64,7 +64,8 @@ education:
       - degree: Doctorate in Computer Science
         university: Universidad Industrial de Santander
         time: 2024 - Present
-        details: 
+        details: |
+          Optimization of workflows for the management of large volumes of data in large-scale scientific applications.
       - degree: MSc in Systems and computer engineering
         university: Universidad Industrial de Santander
         time: 2023
@@ -85,7 +86,7 @@ experiences:
         details: |
           Design, deploy and administer the ElBongo Science Gateway, a platform that integrates workflows, data management tools, and computing resources to support research under open science principles. 
           Support users in the use of the Science Gateway, facilitating the execution, monitoring, and reproducibility of computational experiments. 
-          Manage and extend the workflow management services that enable researchers to design, share, and reuse workflows across distributed computing infrastructures.
+          Manage and extend the workflow management services that enable researchers to design, share, and reuse workflows across distributed computing infrastructures. https://elbongo.redclara.net/
       - role: Software architect and systems administrator
         time: 2020 - 2024
         company: LA-CoNGA physics
@@ -124,6 +125,15 @@ certifications:
           credentialname: SC-Camp 2023
           details: |
             The 14th International SuperComputing Camp 2023 offers Master and PhD students a 6-day program in Cartagena, Colombia, focused on High-Performance Computing (HPC) and Distributed Systems.
+        - name: Open Seeds program | Cohort 3
+          #start: Feb 2021
+          end: May 2021
+          organization: Open Life Science
+          #credentialid: 111-222
+          credentialurl: https://we-are-ols.org/openseeds/ols-3
+          credentialname: OLS-3
+          details: |
+            Mentorship and cohort-based training, where participants share their expertise and gain knowledge essential to create, lead, and sustain Open Science projects. 
         - name: 41th International School for Young Astronomers
           #start: Jul 2018
           end: Jul 2018
@@ -139,8 +149,11 @@ projects:
     intro: >
       My projects.
     assignments:
+      - title: EL-BONGÓ Science Gateway
+        link: "https://elbongo.redclara.net/"
+        tagline: "Development of a Science Gateway for the EL-BONGÓ physics project, aimed at facilitating access to scientific workflows and data analysis tools. The system integrates web-based user interfaces with distributed computing infrastructure, enabling reproducible and user-friendly access for non-expert users."
       - title: MiLab
-        link: "#hook"
+        link: "https://milab.redclara.net/"
         tagline: "A platform as a service in the cloud to support the work of research groups and institutions associated with RedCLARA in project management, the preservation of their digital history and collaborative work."
       - title: RACIMO-Móncora
         link: "https://class.redclara.net/halley/moncora"
@@ -164,8 +177,18 @@ publications:
     intro: |
       Academic work.
     papers:
+      - title:  Driving Computational Efficiency in Large-Scale Platforms using HPC Technologies 
+        link: "https://arxiv.org/abs/2601.13424"
+        authors: Alexander Martinez Mendez, Antonio J. Rubio-Montero, Carlos J. Barrios H., Hernán Asorey, Rafael Mayo-García, Luis A. Núñez
+        conference: 12th Latin America High Performance Computing Conference, CARLA 2025
+      
+      - title: A Scientific Data Integrity system based on Blockchain
+        link: "https://arxiv.org/abs/2601.13425"
+        authors: Gian Sebastian Mier Bello, Alexander Martinez Mendez, Carlos J. Barrios H., Robinson Rivas, Luis A. Núñez
+        conference: 12th Latin America High Performance Computing Conference, CARLA 2025
+
       - title: High-Performance Computing for Astrophysical Simulations and Astroparticle Observations
-        link: "https://www.carla2023.org/"
+        link: "https://doi.org/10.1007/978-3-031-52186-7_13"
         authors: L.M. Becerra, C. Sarmiento-Cano, A. Martínez-Méndez, Y. Dominguez and L.A. Núñez
         conference: 10th Latin America High Performance Computing Conference, CARLA 2023
       
