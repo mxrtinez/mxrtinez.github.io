@@ -145,22 +145,28 @@ certifications:
             The International School for Young Astronomers (ISYA), is a three-week program offering comprehensive lectures, practical exercises, and observational training in astronomy and astrophysics.
 
 projects:
-    title: Projects
+    title: Projects and Colaborations
     intro: >
       My projects.
     assignments:
-      - title: EL-BONGÓ Science Gateway
+      - title: EL-BONGÓ physics
         link: "https://elbongo.redclara.net/"
-        tagline: "Development of a Science Gateway for the EL-BONGÓ physics project, aimed at facilitating access to scientific workflows and data analysis tools. The system integrates web-based user interfaces with distributed computing infrastructure, enabling reproducible and user-friendly access for non-expert users."
+        tagline: "An Erasmus project that seeks to democratise physics education and research for the university population of Latin America. The main effort is focused on the digital transformation of higher education in Latin America, from the creation of virtual communities of scientific training, with a collaborative logic, open science and strengthening of practical skills in digital fabrication."
       - title: MiLab
         link: "https://milab.redclara.net/"
         tagline: "A platform as a service in the cloud to support the work of research groups and institutions associated with RedCLARA in project management, the preservation of their digital history and collaborative work."
       - title: RACIMO-Móncora
         link: "https://class.redclara.net/halley/moncora"
         tagline: "Racimo-Móncora is a citizen science project that seeks to create science seedbeds in schools in Bucaramanga and thereby expose high school students early to scientific research environments and tools."
+      - title: LAGO - The Latin American Giant Observatory  
+        link: "https://lagoproject.net/"
+        tagline: "Global-scale astroparticle observatory. Primarily focused on research in three branches of astroparticle physics: the extreme universe, space weather phenomena, and ground-level atmospheric radiation."
+      - title: Pierre Auger Observatory
+        link: "https://auger.org/"
+        tagline: "A leading international observatory in the detection of extensive air showers, specializing in the analysis of particles with energies exceeding 10^19 eV through surface detectors and fluorescence telescopes."
       - title: Co-Afina Hackathon
         link: "https://laconga.redclara.net/hackathon/"
-        tagline: "Hackathon promoted by LA-CoNGA physics in which university students in Latin America collaboratively develop solutions to solve problems related to scientific and educational topics with social impact."
+        tagline: "Hackathon in which university students in Latin America collaboratively develop solutions to solve problems related to scientific and educational topics with social impact."
 
 oss:
     title: OSS Contributions
@@ -213,8 +219,13 @@ publications:
         conference: OpenCon LatAm, 2019
       
       - title: Lago Distributed Network Of Data Repositories
-        link: "#"
+        link: "https://www.redalyc.org/pdf/571/57153211016.pdf"
         authors: A. Martínez-Méndez, H. Asorey, L.A. Núñez and A. Valbuena-Delgado.
+        conference: XV Reunión Latinoaméricana de la Unión Astronómica Internacional (XV LARIM), 2017
+
+      - title:  Astroclimate, a Citizen Science Climate Awareness 
+        link: "https://www.redalyc.org/pdf/571/57153211104.pdf"
+        authors: Asorey, H.; Balaguera-Rojas, A.; Martínez-Méndez, A.; Núñez, L. A.; Peña-Rodríguez, J.; Salgado-Meza, P.; Sarmiento-Cano, C.; Suárez-Durán, M.
         conference: XV Reunión Latinoaméricana de la Unión Astronómica Internacional (XV LARIM), 2017
 
 skills:
